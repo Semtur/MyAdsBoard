@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: MyAdsBoard
+Implementation-Version: 1.0
+Built-By: semtur
+Implementation-Vendor-Id: MyAdsBoard
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_101
+Main-Class: MyAdsBoard.Application
+

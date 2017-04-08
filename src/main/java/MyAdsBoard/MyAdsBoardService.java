@@ -1,6 +1,7 @@
 package MyAdsBoard;
 
-import java.time.LocalDateTime;
+import MyAdsBoard.entity.*;
+
 import java.util.List;
 
 public interface MyAdsBoardService {
